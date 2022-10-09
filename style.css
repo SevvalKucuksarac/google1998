@@ -1,0 +1,60 @@
+/*
+.logo {
+    margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+*/
+
+
+body {
+    text-align: center;
+}
+section {
+    background-color: #EEEEEE;
+    display: block;
+    text-align: -webkit-center;
+}
+.kutu1 {
+    margin-left: 65px;
+    margin-right: 65px;
+}
+.kutu2 {
+    background-color: #7ee5da;
+    margin-left: 65px;
+    margin-right: 1px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    width: 375px;
+    height: 50px;
+    padding: 14px;
+    border-spacing: 2px;
+    
+}
+.kutu3 {
+    background-color: #70ccc2;
+    margin-left: 1px;
+    margin-right: 2px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    height: 58px;
+    width: 170px;
+    padding: 10px;
+    font-size: 13px;
+}
+.kutu4 {
+    background-color: #62b3aa;
+    margin-right: 65px;
+    margin-right: 2px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    height: 78px;
+    width: 509px;
+    font-size: 13px;
+}
+.ana {
+    display: flex;
+}
+.font {
+    font-size: 13px;
+}
